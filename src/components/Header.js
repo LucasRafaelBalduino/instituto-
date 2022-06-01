@@ -35,7 +35,10 @@ export default function Header() {
             </a>
             </Link>
             <a className="block lg:inline-block mt-4 lg:mt-0 mr-10 font-bold text-blue-900 hover:text-indigo-600" href="#">
-              VERGINIA PARA PROFISSIONAIS
+              PARA PROFISSIONAIS
+            </a>
+            <a className="block lg:inline-block mt-4 lg:mt-0 mr-10 font-bold text-blue-900 hover:text-indigo-600" href="#">
+              INDUSTRIA
             </a>
             <Link href="/contact">
             <a className="block lg:inline-block mt-4 lg:mt-0 mr-10 font-bold text-blue-900 hover:text-indigo-600" href="#">
